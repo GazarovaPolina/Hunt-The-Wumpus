@@ -1,0 +1,2 @@
+The implementation of a text-based adventure game Hunt the Wumpus developed by Gregory Yob in 1973. In the game, the player moves through a series of connected caves, arranged as the vertices of a dodecahedron and corridor, as they hunt a monster named the Wumpus.
+More about the game: https://en.wikipedia.org/wiki/Hunt_the_Wumpus#:~:text=Hunt%20the%20Wumpus%20is%20a,caves%20to%20kill%20the%20Wumpus
